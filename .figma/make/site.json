@@ -1,0 +1,10 @@
+{
+  "description": "Streamline pharmacy operations with a comprehensive web-based POS and inventory management system, ensuring efficient sales, stock control, and user management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
